@@ -6,12 +6,12 @@ Dermatol was made using Python, Kivy, and several machine learning libraries inc
 
 # Repository Contents
 There are several components to the source code seen in this folder. The first component is the colelction of pictures in .png format. These images are used in the application. The second component of the application is the collection of .py files. These python files are main.py, specialbuttons.py, and database.py.
-  # main.py:
-  This file contains all of the main logic of the entire application: It is the where all components of the application come together to function
-  # database.py
-  This file contains the python script used for the login system of the application
-  # specialbuttons.py
-  This file contains the special functions needed to display buttons on the graphical user interface in a circular manner.
+  * main.py:
+    This file contains all of the main logic of the entire application: It is the where all components of the application come     together to function
+  * database.py
+    This file contains the python script used for the login system of the application
+  * specialbuttons.py
+    This file contains the special functions needed to display buttons on the graphical user interface in a circular manner.
   
 The third component of the repository is the machine learning components. These files are cancer_tech.ipynb and cancer_tech.h5. the jupyter notebook file (cancer_tech.ipynb) details the process that was taken in order to create a neural network and ultimately store the neural network in the keras h5 file. 
 
