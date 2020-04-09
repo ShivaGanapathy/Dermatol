@@ -1,6 +1,7 @@
 # Dermatol
 Dermatol is a multiplatform application that detects signs of skin cancer lesions using bleeding-edge AI technqiues, educates the user about skin cancer, and connects the user to the local dermatology community. All of the app's functionality can be detailed in  its app demonstration video here: https://www.youtube.com/watch?v=5XkGRIMXI8I
 
+
 # App Platform
 Dermatol was made using Python, Kivy, and several machine learning libraries including Tensorflow, Keras, and Sci-Kit Learn. The machine learning component of the application is stored in the file "cancertech.h5", and was trained using the code from "cancer_tech.ipynb" which is stored in jupyter notebook format. The graphical user interface of the application was created with Kivy.
 
@@ -28,6 +29,9 @@ The third component of the repository is the machine learning components. These 
  * is trained with 500 epochs
  * reached a training accuracy of 98%
  
+ # Data Source
+ In order to train the neural network, data from kaggle was used. The data can be seen here: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
+ 
  
  # Installation Steps on Windows:
  * Download all the contents of this repository
@@ -39,7 +43,6 @@ The third component of the repository is the machine learning components. These 
  
 
 
-Note: all of the source code can also be seen on GitHub at https://github.com/aahmad4/Classifying-Skin-Cancer or https://github.com/ShivaGanapathy/Dermatol 
 
 # Disclaimer
 This product is not intended to diagnose,treat,replace proper medical treatment. use for reference only. consult doctor before making any decisions based on this app.
