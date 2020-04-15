@@ -25,7 +25,7 @@ The third component of the repository is the machine learning components. These 
  The Neural Network:
  * is trained with 3 hidden layers each with 32, 64, and 32 layers respectively.
  * uses both softmax & relu activation functions
- * uses sparse ccategorical crossentropy as its loss function
+ * uses sparse categorical crossentropy as its loss function
  * is trained with 500 epochs
  * reached a training accuracy of 98%
  
