@@ -1,5 +1,6 @@
 # Dermatol
-Dermatol is a multiplatform application that detects signs of skin cancer lesions using bleeding-edge AI technqiues, educates the user about skin cancer, and connects the user to the local dermatology community. All of the app's functionality can be detailed in  its app demonstration video here: https://www.youtube.com/watch?v=5XkGRIMXI8I
+Dermatol is a multiplatform application that detects signs of skin cancer lesions using bleeding-edge AI technqiues, educates the user about skin cancer, and connects the user to the local dermatology community. All of the app's functionality can be detailed in  its app demonstration video here: https://www.youtube.com/watch?v=5XkGRIMXI8I. The app was a collaboration for the Livewell 2020 Livewell App Competition, and was created with team members: Ali (aahmad4 on Github), Nico (nico-jimene on Github), and Aakash (aakosk on Github).
+I was responsible for preprocessing data, training neural networks, and implementing the Machine Learning portion of the application.
 
 
 # App Platform
